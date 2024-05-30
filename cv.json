@@ -5,20 +5,20 @@
     "image": "/me-temp.jpg",
     "email": "marcos@studiomaicen.com",
     "phone": "+54 341 283-8913",
-    "url": "https://midu.dev",
+    "url": "https://studiomaicen.com",
     "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "2000",
+      "city": "Rosario",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Marcos Pisaco",
+        "url": "https://linkedin.com/in/marcospisaco"
       },
       {
         "network": "X",
