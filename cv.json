@@ -72,18 +72,6 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -203,68 +191,36 @@
     "name": "Jane Doe",
     "reference": "Reference…"
   }],
-  "projects": [
+  "experience": [
     {
-      "name": "mars.codes",
+      "name": "Le Café",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Cafetería de especialidad, ubicada en Colón, Buenos Aires.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Preparación de Café, pedidos e iniciación en Arte Latte.",
+        "Junio/2023 a Febrero/2024"
       ],
-      "url": "https://mars.codes"
+      "url": "-"
     },
     {
-      "name": "AdventJS",
+      "name": "Author Restaurant",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Restaurante ubicado en Colón, Buenos Aires",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Preparación de platos elaborados, coordinación de despacho.",
+        "Enero/2023 a Julio/2023"
       ],
-      "url": "https://adventjs.dev"
+      "url": ""
     },
     {
-      "name": "Codember",
+      "name": "BigFood",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Restaurante Fast Food, Ubicado en Colón, Buenos Aires",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Manejo de todos los sectores de cocina, como también atención al publico y coordinación de despacho de pedidos con repartidos o clientes",
+        "Abril/2020 a 10/2023"
       ],
       "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
   ]
 }
