@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Marcos Pisaco",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Mas de 4 años de experiencia en gastronomía",
     "image": "/me-prueba.jpg",
-    "email": "marcos@studiomaicen.com",
+    "email": "pisacomarcos@gmail.com",
     "phone": "+54 341 283-8913",
-    "url": "https://studiomaicen.com",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "url": "",
+    "summary": "------",
     "location": {
-      "address": "",
+      "address": "Necochea y Pellegrini",
       "postalCode": "2000",
       "city": "Rosario",
       "countryCode": "AR",
@@ -21,14 +21,9 @@
         "url": "https://linkedin.com/in/marcospisaco"
       },
       {
-        "network": "X",
-        "username": "studiomaicen",
-        "url": "https://x.com/studiomaicen"
-      },
-      {
-        "network": "GitHub",
-        "username": "pisacomarcos",
-        "url": "https://github.com/pisacomarcos"
+        "network": "LinkedIn",
+        "username": "Marcos Pisaco",
+        "url": "https://linkedin.com/in/marcospisaco"
       }
     ]
   },
